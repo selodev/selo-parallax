@@ -1,0 +1,17 @@
+:host {
+  display: block;
+}
+.parallax-image {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url(assets/images/lucas-benjamin-wQLAGv4_OYs-unsplash.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 70vh;
+}
+
+.main {
+  /* background-color: white; */
+  width: 100%;
+  position: absolute;
+}
